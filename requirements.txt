@@ -1,0 +1,16 @@
+imblearn
+joblib
+lazypredict
+lime
+matplotlib
+mlxtend
+numpy
+pandas
+pefile
+plot_metric
+plotly
+plotly_express
+scikit_learn
+seaborn
+session_info
+statsmodels
